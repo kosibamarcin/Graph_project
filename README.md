@@ -12,11 +12,13 @@
 #### If You run it by console:
 Go to Bellman-Ford file and:
 
+```
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make 
 $ ./src/Bellman-Ford
+```
 
 #### If You run it using IDE:
 Just select CmakeList.txt in Bellman-Ford and project should be build.
@@ -26,5 +28,5 @@ If any problems with opening matrix occur, You should check in main if right fil
 You should localize localize executable .exe and recursively give path from it to matrix.
 If this fails try to give direct path to matrix.txt on computer.
 
-###### I hope everything will be alright. 
+#### I hope everything will be alright. 
 If not, please contact with me.
