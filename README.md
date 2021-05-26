@@ -26,7 +26,7 @@ Just select CmakeList.txt in Bellman-Ford and project should be build.
 #### Problems with "Unable to open matrix file"
 If any problems with opening matrix occur, You should check in main if right filepath is given to filename string.
 You should localize localize executable .exe and recursively give path from it to matrix.
-If this fails try to give direct path to matrix.txt on computer.
+If this fails try to give direct path to matrix.txt on Your computer.
 
 #### I hope everything will be alright. 
-If not, please contact with me.
+If not, please contact me.
