@@ -6,7 +6,7 @@
 ## Table of contest:
 1. Analitical part is placed in included ***Czesc_analityczna.pdf***
 2. Implementation is in ***Bellman-Ford***
-3. Bellman-Ford analyse is in ***Bellman-Ford_analyse.md***
+3. Bellman-Ford analyse is in ***Bellman-Ford-analyse.md***
 
 ## How to run Bellman-Ford algorithm:
 * It is written in C++ so You have to have compiler and cmake installed.
