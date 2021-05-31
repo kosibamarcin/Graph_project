@@ -10,6 +10,7 @@
 
 ## How to run Bellman-Ford algorithm:
 * It is written in C++ so You have to have compiler and cmake installed.
+* To represent a graph I used a matrix where a[x][y] means that the weight from x to y is equal to a[x][y]
 #### If You run it by console:
 Go to Bellman-Ford file and:
 
